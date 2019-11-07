@@ -1,4 +1,5 @@
 package com.example.checkyourselftrivia;
+package com.example.android.cookies;
 
 import androidx.appcompat.app.AppCompatActivity;
 
